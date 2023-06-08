@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Consejos de moda</title>
+        <link>Consejos.html</link>
+        <description>Consejos</description>
+        <lenguage>es</lenguage>
+        <image>
+            <title>Los mejores consejos de moda según los estilistas más críticos del sector</title>
+            <url>https://hips.hearstapps.com/hmg-prod/images/trucos-estilista-como-vestir-ideas-looks-1633697041.jpg</url>
+            <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+        </image>
+            <item>
+                <title>El monocolor es siempre un acierto</title>
+                <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+                <description>Hay pocas cosas más eficaces a nivel estético que los estilismos monocolores. Y no te preocupes, no hace falta que sea el mismo tono exacto, puedes jugar con varias opciones dentro dela misma gama tonal.</description>
+                <fecha>24/03/22</fecha>
+                <enclosure>
+                    <title>Monocolor</title>
+                    <url>https://i.ibb.co/9wgX2dM/trucos-estilo-street-style-estilistas-6-1633687936.jpg</url>
+                </enclosure>
+            </item>
+            <item>
+                <title>Partes de arriba 'cropped' con pantalones extra largos para sumar centímetros</title>
+                <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+                <description>Si buscas ganar unos centímetros con el estilismo, prueba a mezclar una parte de arriba cropped, como esta americana con unos pantalones de tiro alto y de campana o bastante largos.</description>
+                <fecha>26/03/21</fecha>
+                <enclosure>
+                    <title>Cropped</title>
+                    <url>https://i.ibb.co/fDcrWDG/trucos-estilo-street-style-estilistas-16-1633687938.jpg</url>
+                </enclosure>
+
+            </item>
+            <item>
+                <title>Un bolso de color rojo siempre eleva los looks básicos</title>
+                <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+                <description>Pocos colores hay que le sienten tan bien al blanco o al negro como el rojo. Un bolso (o unos zapatos) del tono más pasional de todos son el aderezo perfecto para los estilismos más sencillos. Y aún más si se completa con un labial del mismo tono, tal y como hace Alexandra Pereira.</description>
+                <fecha>23/03/21</fecha>
+                <enclosure>
+                    <title>Bolsos</title>
+                    <url>https://i.ibb.co/tbkWrLr/trucos-estilo-street-style-estilistas-3-1633687936.jpg</url>
+                </enclosure>
+            </item>
+    </channel>
+</rss>

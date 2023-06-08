@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ofertas en la Boutique</title>
+        <link>Ofertas.html</link>
+        <description>Ofertas</description>
+        <lenguage>es</lenguage>
+        <image>
+            <title>¡OFERTAS!</title>
+            <url>https://i.ibb.co/j8Q9sQS/4.png</url>
+            <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+        </image>
+            <item>
+                <title>Prendas de seda</title>
+                <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+                <description>Ofertas hasta un 50% de descuento</description>
+                <fecha>19/03/21</fecha>
+                <enclosure>
+                    <title>Seda</title>
+                    <url>https://i.ibb.co/DkjJNvZ/3.png</url>
+                </enclosure>
+            </item>
+            <item>
+                <title>Prendas de lino</title>
+                <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+                <description>Ofertas hasta un 25% de descuento</description>
+                <fecha>21/03/21</fecha>
+                <enclosure>
+                    <title>Lino</title>
+                    <url>https://i.ibb.co/ccQhXRN/vestido2.png</url>
+                </enclosure>
+
+            </item>
+            <item>
+                <title>Prendas de tela sintética</title>
+                <link>https://norahboutique.nicepage.io/?version=518f5973-6e65-4cba-bf2e-e43f272c200c</link>
+                <description>Ofertas hasta un 75% de descuento</description>
+                <fecha>23/03/21</fecha>
+                <enclosure>
+                    <title>Tela sintética</title>
+                    <url>https://i.ibb.co/Z8kMx5x/2-2-removebg-preview.png</url>
+                </enclosure>
+            </item>
+    </channel>
+</rss>

@@ -1,0 +1,129 @@
+body{
+    font-family: 'Alkatra', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Vollkorn', serif;
+    background-color: #fdbafb95;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 1.0rem;
+    color: grey;
+}
+
+#navbar{
+    padding: 0 0 4.0rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-item{
+    padding-right: 18px;
+    font-size: 1.2rem;
+}
+
+h3{
+    font-size: 2.0rem;
+    text-align: center;
+    font-weight: bold;
+    color: #282A3A;
+}
+
+.destacados{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#sección{
+    color: #ff90be;
+    margin-left: 45%;
+    margin-bottom: 4%;
+    font-size: 6rem;
+}
+
+#sección:hover{
+    color: #ff8ade;
+}
+
+.texto{
+    font-size: 1.5rem;
+}
+
+.link{
+    font-size: 1.0rem;
+    text-align: center;
+}
+
+#vendido{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+h5{
+    font-size: 2.0rem;
+    
+}
+
+.titulo{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.boton{
+    border: none;
+    background-color: #D8B384;
+    font-size: 2.0rem;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.camisetacuello{
+    width: 30%;
+    margin: 10%;
+    margin-left: 35%;
+    
+}
+
+.camisetacorta{
+    width: 30%;
+    margin: 10%;
+    margin-left: 35%;
+
+}
+
+.camisetalarga{
+    width: 30%;
+    margin: 10%;
+    margin-left: 35%;
+}
+
+.articulo{
+    font-size: 1.5rem;
+}
+
+.listado{
+    text-align: center;
+    font-size: 2.0rem;
+}
+
+.tienda{
+    text-align: center;
+    font-size: 2.0rem;
+    margin-bottom: -160px;
+}
+
+.footer{
+    font-size: 2.0rem;
+}
+
+.pie{
+    font-size: 1.0rem;
+    color: #675D50;
+}
+
+#carrusel{
+    background-color: white;
+}
+
